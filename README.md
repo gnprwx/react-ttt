@@ -4,7 +4,7 @@
 
 Yes. I am using this to learn how to use React.
 
--   [x] Secondary challenge: convert the app to typescript.
+-   [ ] Secondary challenge: convert the app to tsx.
 
 ## Boring.
 
